@@ -1,0 +1,201 @@
+restaurant_id,restaurant_name,city,opening_hours
+1,Paradise Biryani #1,Mumbai,10:00 AM - 11:00 PM
+2,Faasos #2,Delhi,10:00 AM - 11:00 PM
+3,Oven Story Pizza #3,Delhi,10:00 AM - 11:00 PM
+4,Paradise Biryani #4,Chennai,10:00 AM - 11:00 PM
+5,Wow! Momo #5,Mumbai,10:00 AM - 11:00 PM
+6,FreshMenu #6,Hyderabad,10:00 AM - 11:00 PM
+7,Biryani Blues #7,Mumbai,10:00 AM - 11:00 PM
+8,The Great Kabab Factory #8,Delhi,10:00 AM - 11:00 PM
+9,Oven Story Pizza #9,Pune,10:00 AM - 11:00 PM
+10,LunchBox #10,Mumbai,10:00 AM - 11:00 PM
+11,Wow! Momo #11,Delhi,10:00 AM - 11:00 PM
+12,Wow! Momo #12,Hyderabad,10:00 AM - 11:00 PM
+13,Oven Story Pizza #13,Hyderabad,10:00 AM - 11:00 PM
+14,FreshMenu #14,Bengaluru,10:00 AM - 11:00 PM
+15,Barbeque Nation #15,Kolkata,10:00 AM - 11:00 PM
+16,Burger King #16,Chennai,10:00 AM - 11:00 PM
+17,KFC #17,Bengaluru,10:00 AM - 11:00 PM
+18,Faasos #18,Delhi,10:00 AM - 11:00 PM
+19,Behrouz Biryani #19,Kolkata,10:00 AM - 11:00 PM
+20,Subway #20,Mumbai,10:00 AM - 11:00 PM
+21,The Great Kabab Factory #21,Hyderabad,10:00 AM - 11:00 PM
+22,Paradise Biryani #22,Bengaluru,10:00 AM - 11:00 PM
+23,Pizza Hut #23,Pune,10:00 AM - 11:00 PM
+24,Faasos #24,Kolkata,10:00 AM - 11:00 PM
+25,Biryani Blues #25,Chennai,10:00 AM - 11:00 PM
+26,Cafe Coffee Day #26,Pune,10:00 AM - 11:00 PM
+27,Paradise Biryani #27,Hyderabad,10:00 AM - 11:00 PM
+28,The Great Kabab Factory #28,Pune,10:00 AM - 11:00 PM
+29,Sweet Truth #29,Kolkata,10:00 AM - 11:00 PM
+30,LunchBox #30,Kolkata,10:00 AM - 11:00 PM
+31,Pizza Hut #31,Pune,10:00 AM - 11:00 PM
+32,Behrouz Biryani #32,Chennai,10:00 AM - 11:00 PM
+33,The Great Kabab Factory #33,Mumbai,10:00 AM - 11:00 PM
+34,Oven Story Pizza #34,Kolkata,10:00 AM - 11:00 PM
+35,Sweet Truth #35,Mumbai,10:00 AM - 11:00 PM
+36,Oven Story Pizza #36,Kolkata,10:00 AM - 11:00 PM
+37,Paradise Biryani #37,Hyderabad,10:00 AM - 11:00 PM
+38,Faasos #38,Hyderabad,10:00 AM - 11:00 PM
+39,Pizza Hut #39,Delhi,10:00 AM - 11:00 PM
+40,Pizza Hut #40,Bengaluru,10:00 AM - 11:00 PM
+41,Behrouz Biryani #41,Chennai,10:00 AM - 11:00 PM
+42,Faasos #42,Chennai,10:00 AM - 11:00 PM
+43,The Great Kabab Factory #43,Pune,10:00 AM - 11:00 PM
+44,Burger King #44,Pune,10:00 AM - 11:00 PM
+45,Oven Story Pizza #45,Delhi,10:00 AM - 11:00 PM
+46,Cafe Coffee Day #46,Hyderabad,10:00 AM - 11:00 PM
+47,Faasos #47,Chennai,10:00 AM - 11:00 PM
+48,Wow! Momo #48,Delhi,10:00 AM - 11:00 PM
+49,Subway #49,Kolkata,10:00 AM - 11:00 PM
+50,Biryani Blues #50,Delhi,10:00 AM - 11:00 PM
+51,Biryani Blues #51,Kolkata,10:00 AM - 11:00 PM
+52,Subway #52,Hyderabad,10:00 AM - 11:00 PM
+53,Faasos #53,Mumbai,10:00 AM - 11:00 PM
+54,Behrouz Biryani #54,Pune,10:00 AM - 11:00 PM
+55,Subway #55,Delhi,10:00 AM - 11:00 PM
+56,Starbucks #56,Hyderabad,10:00 AM - 11:00 PM
+57,Cafe Coffee Day #57,Delhi,10:00 AM - 11:00 PM
+58,Faasos #58,Delhi,10:00 AM - 11:00 PM
+59,Oven Story Pizza #59,Chennai,10:00 AM - 11:00 PM
+60,Wow! Momo #60,Pune,10:00 AM - 11:00 PM
+61,Faasos #61,Chennai,10:00 AM - 11:00 PM
+62,FreshMenu #62,Hyderabad,10:00 AM - 11:00 PM
+63,FreshMenu #63,Hyderabad,10:00 AM - 11:00 PM
+64,Pizza Hut #64,Delhi,10:00 AM - 11:00 PM
+65,Domino's Pizza #65,Pune,10:00 AM - 11:00 PM
+66,Starbucks #66,Mumbai,10:00 AM - 11:00 PM
+67,Biryani Blues #67,Kolkata,10:00 AM - 11:00 PM
+68,Paradise Biryani #68,Delhi,10:00 AM - 11:00 PM
+69,Burger King #69,Kolkata,10:00 AM - 11:00 PM
+70,KFC #70,Pune,10:00 AM - 11:00 PM
+71,The Great Kabab Factory #71,Hyderabad,10:00 AM - 11:00 PM
+72,McDonald's #72,Pune,10:00 AM - 11:00 PM
+73,Cafe Coffee Day #73,Pune,10:00 AM - 11:00 PM
+74,Faasos #74,Pune,10:00 AM - 11:00 PM
+75,Barbeque Nation #75,Chennai,10:00 AM - 11:00 PM
+76,Paradise Biryani #76,Chennai,10:00 AM - 11:00 PM
+77,Wow! Momo #77,Kolkata,10:00 AM - 11:00 PM
+78,Faasos #78,Kolkata,10:00 AM - 11:00 PM
+79,Subway #79,Mumbai,10:00 AM - 11:00 PM
+80,Sweet Truth #80,Hyderabad,10:00 AM - 11:00 PM
+81,Burger King #81,Hyderabad,10:00 AM - 11:00 PM
+82,Barbeque Nation #82,Chennai,10:00 AM - 11:00 PM
+83,Faasos #83,Pune,10:00 AM - 11:00 PM
+84,Burger King #84,Pune,10:00 AM - 11:00 PM
+85,Paradise Biryani #85,Kolkata,10:00 AM - 11:00 PM
+86,Sweet Truth #86,Kolkata,10:00 AM - 11:00 PM
+87,Chai Point #87,Pune,10:00 AM - 11:00 PM
+88,Behrouz Biryani #88,Delhi,10:00 AM - 11:00 PM
+89,Pizza Hut #89,Kolkata,10:00 AM - 11:00 PM
+90,Burger King #90,Pune,10:00 AM - 11:00 PM
+91,Chai Point #91,Mumbai,10:00 AM - 11:00 PM
+92,LunchBox #92,Bengaluru,10:00 AM - 11:00 PM
+93,Starbucks #93,Mumbai,10:00 AM - 11:00 PM
+94,Paradise Biryani #94,Bengaluru,10:00 AM - 11:00 PM
+95,Sweet Truth #95,Delhi,10:00 AM - 11:00 PM
+96,Biryani Blues #96,Delhi,10:00 AM - 11:00 PM
+97,FreshMenu #97,Mumbai,10:00 AM - 11:00 PM
+98,The Great Kabab Factory #98,Chennai,10:00 AM - 11:00 PM
+99,Starbucks #99,Kolkata,10:00 AM - 11:00 PM
+100,The Great Kabab Factory #100,Kolkata,10:00 AM - 11:00 PM
+101,Wow! Momo #101,Kolkata,10:00 AM - 11:00 PM
+102,Domino's Pizza #102,Delhi,10:00 AM - 11:00 PM
+103,Starbucks #103,Pune,10:00 AM - 11:00 PM
+104,Burger King #104,Bengaluru,10:00 AM - 11:00 PM
+105,Chai Point #105,Kolkata,10:00 AM - 11:00 PM
+106,LunchBox #106,Hyderabad,10:00 AM - 11:00 PM
+107,Behrouz Biryani #107,Pune,10:00 AM - 11:00 PM
+108,Behrouz Biryani #108,Chennai,10:00 AM - 11:00 PM
+109,Sweet Truth #109,Hyderabad,10:00 AM - 11:00 PM
+110,Pizza Hut #110,Hyderabad,10:00 AM - 11:00 PM
+111,Chai Point #111,Hyderabad,10:00 AM - 11:00 PM
+112,Paradise Biryani #112,Delhi,10:00 AM - 11:00 PM
+113,Oven Story Pizza #113,Mumbai,10:00 AM - 11:00 PM
+114,Subway #114,Mumbai,10:00 AM - 11:00 PM
+115,FreshMenu #115,Pune,10:00 AM - 11:00 PM
+116,Oven Story Pizza #116,Pune,10:00 AM - 11:00 PM
+117,Oven Story Pizza #117,Mumbai,10:00 AM - 11:00 PM
+118,The Great Kabab Factory #118,Chennai,10:00 AM - 11:00 PM
+119,Biryani Blues #119,Delhi,10:00 AM - 11:00 PM
+120,The Great Kabab Factory #120,Mumbai,10:00 AM - 11:00 PM
+121,Subway #121,Mumbai,10:00 AM - 11:00 PM
+122,Chai Point #122,Delhi,10:00 AM - 11:00 PM
+123,Faasos #123,Chennai,10:00 AM - 11:00 PM
+124,Starbucks #124,Delhi,10:00 AM - 11:00 PM
+125,Wow! Momo #125,Delhi,10:00 AM - 11:00 PM
+126,FreshMenu #126,Pune,10:00 AM - 11:00 PM
+127,Starbucks #127,Delhi,10:00 AM - 11:00 PM
+128,Starbucks #128,Kolkata,10:00 AM - 11:00 PM
+129,KFC #129,Delhi,10:00 AM - 11:00 PM
+130,Paradise Biryani #130,Mumbai,10:00 AM - 11:00 PM
+131,KFC #131,Bengaluru,10:00 AM - 11:00 PM
+132,KFC #132,Hyderabad,10:00 AM - 11:00 PM
+133,Cafe Coffee Day #133,Kolkata,10:00 AM - 11:00 PM
+134,Biryani Blues #134,Chennai,10:00 AM - 11:00 PM
+135,Paradise Biryani #135,Mumbai,10:00 AM - 11:00 PM
+136,McDonald's #136,Chennai,10:00 AM - 11:00 PM
+137,Subway #137,Kolkata,10:00 AM - 11:00 PM
+138,Paradise Biryani #138,Delhi,10:00 AM - 11:00 PM
+139,Behrouz Biryani #139,Delhi,10:00 AM - 11:00 PM
+140,Wow! Momo #140,Hyderabad,10:00 AM - 11:00 PM
+141,Domino's Pizza #141,Hyderabad,10:00 AM - 11:00 PM
+142,Burger King #142,Bengaluru,10:00 AM - 11:00 PM
+143,Cafe Coffee Day #143,Delhi,10:00 AM - 11:00 PM
+144,The Great Kabab Factory #144,Hyderabad,10:00 AM - 11:00 PM
+145,Wow! Momo #145,Mumbai,10:00 AM - 11:00 PM
+146,Biryani Blues #146,Chennai,10:00 AM - 11:00 PM
+147,Wow! Momo #147,Kolkata,10:00 AM - 11:00 PM
+148,Barbeque Nation #148,Mumbai,10:00 AM - 11:00 PM
+149,Oven Story Pizza #149,Delhi,10:00 AM - 11:00 PM
+150,KFC #150,Hyderabad,10:00 AM - 11:00 PM
+151,Starbucks #151,Delhi,10:00 AM - 11:00 PM
+152,McDonald's #152,Mumbai,10:00 AM - 11:00 PM
+153,Burger King #153,Hyderabad,10:00 AM - 11:00 PM
+154,Barbeque Nation #154,Hyderabad,10:00 AM - 11:00 PM
+155,Faasos #155,Kolkata,10:00 AM - 11:00 PM
+156,Cafe Coffee Day #156,Bengaluru,10:00 AM - 11:00 PM
+157,KFC #157,Chennai,10:00 AM - 11:00 PM
+158,Wow! Momo #158,Chennai,10:00 AM - 11:00 PM
+159,Starbucks #159,Delhi,10:00 AM - 11:00 PM
+160,Behrouz Biryani #160,Bengaluru,10:00 AM - 11:00 PM
+161,Behrouz Biryani #161,Mumbai,10:00 AM - 11:00 PM
+162,FreshMenu #162,Chennai,10:00 AM - 11:00 PM
+163,Wow! Momo #163,Mumbai,10:00 AM - 11:00 PM
+164,Subway #164,Mumbai,10:00 AM - 11:00 PM
+165,Biryani Blues #165,Pune,10:00 AM - 11:00 PM
+166,Starbucks #166,Pune,10:00 AM - 11:00 PM
+167,Chai Point #167,Delhi,10:00 AM - 11:00 PM
+168,Biryani Blues #168,Pune,10:00 AM - 11:00 PM
+169,The Great Kabab Factory #169,Kolkata,10:00 AM - 11:00 PM
+170,Burger King #170,Mumbai,10:00 AM - 11:00 PM
+171,LunchBox #171,Mumbai,10:00 AM - 11:00 PM
+172,Oven Story Pizza #172,Hyderabad,10:00 AM - 11:00 PM
+173,Paradise Biryani #173,Pune,10:00 AM - 11:00 PM
+174,Oven Story Pizza #174,Pune,10:00 AM - 11:00 PM
+175,LunchBox #175,Mumbai,10:00 AM - 11:00 PM
+176,LunchBox #176,Mumbai,10:00 AM - 11:00 PM
+177,KFC #177,Chennai,10:00 AM - 11:00 PM
+178,FreshMenu #178,Pune,10:00 AM - 11:00 PM
+179,Chai Point #179,Bengaluru,10:00 AM - 11:00 PM
+180,Faasos #180,Delhi,10:00 AM - 11:00 PM
+181,Subway #181,Delhi,10:00 AM - 11:00 PM
+182,Faasos #182,Hyderabad,10:00 AM - 11:00 PM
+183,Domino's Pizza #183,Chennai,10:00 AM - 11:00 PM
+184,Sweet Truth #184,Hyderabad,10:00 AM - 11:00 PM
+185,Subway #185,Kolkata,10:00 AM - 11:00 PM
+186,The Great Kabab Factory #186,Mumbai,10:00 AM - 11:00 PM
+187,Cafe Coffee Day #187,Pune,10:00 AM - 11:00 PM
+188,FreshMenu #188,Mumbai,10:00 AM - 11:00 PM
+189,The Great Kabab Factory #189,Pune,10:00 AM - 11:00 PM
+190,Behrouz Biryani #190,Pune,10:00 AM - 11:00 PM
+191,Faasos #191,Delhi,10:00 AM - 11:00 PM
+192,Pizza Hut #192,Mumbai,10:00 AM - 11:00 PM
+193,Oven Story Pizza #193,Bengaluru,10:00 AM - 11:00 PM
+194,Sweet Truth #194,Delhi,10:00 AM - 11:00 PM
+195,Cafe Coffee Day #195,Kolkata,10:00 AM - 11:00 PM
+196,Wow! Momo #196,Chennai,10:00 AM - 11:00 PM
+197,Sweet Truth #197,Pune,10:00 AM - 11:00 PM
+198,Chai Point #198,Mumbai,10:00 AM - 11:00 PM
+199,Wow! Momo #199,Bengaluru,10:00 AM - 11:00 PM
+200,Paradise Biryani #200,Delhi,10:00 AM - 11:00 PM
