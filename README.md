@@ -4,9 +4,11 @@
 Zomato Data Analysis using SQL Server
 
 📌 Objective
+
 To perform end-to-end analysis on a simulated Zomato-like food delivery dataset to generate business insights, identify customer behavior, restaurant performance, delivery efficiency, and support decision-making through data-driven conclusions.
 
 🗂️ Dataset Overview
+
 The project uses multiple relational tables:
 
 customers – Customer details (ID, name, registration date)
@@ -20,6 +22,7 @@ deliveries – Delivery records (ID, order ID, rider, time, status)
 riders – Rider details (ID, name, signup date)
 
 🔧 Tech Stack
+
 Database: SQL Server
 
 Tools Used: SSMS (SQL Server Management Studio)
@@ -28,6 +31,7 @@ Languages: T-SQL
 
 
 🔐 Data Preparation
+
 Created relational database: Zomato_Data_Analysis
 
 Defined primary and foreign key constraints to maintain referential integrity:
@@ -39,6 +43,7 @@ deliveries → orders, deliveries → riders
 Checked for and removed null values across all tables.
 
 📈 Key Business Questions & Insights
+
 ✅ 1. Top 5 Most Frequently Ordered Dishes (Last 1 Year)
 Identified most popular items using order frequency, grouped by customers.
 
@@ -70,11 +75,13 @@ Found peak hours for platform engagement.
 Identified cities with highest revenue contribution.
 
 🧠 Outcomes
+
 Delivered actionable insights on customer behavior, city-wise demand, and rider efficiency.
 
 Provided a foundation for dashboard development in Power BI or Excel for stakeholders.
 
 🌟 What I Learned
+
 Writing optimized SQL queries for business logic.
 
 Performing data cleaning and integrity validation.
