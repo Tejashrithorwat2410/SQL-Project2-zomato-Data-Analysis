@@ -1,4 +1,4 @@
-# 📊 Project Report: Zomato Data Analysis using SQL Server
+# 📊 Project Report: Zomato Data Analysis using SQL Server and Power BI
 
 🧾 Project Title
 Zomato Data Analysis using SQL Server and Power BI
@@ -37,18 +37,6 @@ DAX (Data Analysis Expressions
 🔐 Data Preparation
 
 Created relational database: Zomato_Data_Analysis
-
-Tables:
-
-orders
-
-customers
-
-restaurants_data
-
-deliveries
-
-riders
 
 Defined primary and foreign key constraints to maintain referential integrity:
 
