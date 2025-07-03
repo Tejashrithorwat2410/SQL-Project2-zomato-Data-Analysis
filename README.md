@@ -1,13 +1,15 @@
 # 📊 Project Report: Zomato Data Analysis using SQL Server and Power BI
 
-🧾 Project Title
+#🧾 Project Title
 Zomato Data Analysis using SQL Server and Power BI
 
-📌 Objective
+
+#📌 Objective
 
 To analyze customer orders, restaurant performance, delivery operations, and rider efficiency for a Zomato-like food delivery platform using SQL Server for data analysis and Power BI for visualization, with the goal of improving business decision-making and customer experience.
 
-🗂️ Dataset Overview
+
+#🗂️ Dataset Overview
 
 The project uses multiple relational tables:
 
@@ -21,7 +23,8 @@ deliveries – Delivery records (ID, order ID, rider, time, status)
 
 riders – Rider details (ID, name, signup date)
 
-🔧 Tech Stack
+
+#🔧 Tech Stack
 
 Database: SQL Server
 
@@ -34,7 +37,7 @@ Microsoft Power BI
 DAX (Data Analysis Expressions
 
 
-🔐 Data Preparation
+#🔐 Data Preparation
 
 Created relational database: Zomato_Data_Analysis
 
@@ -46,7 +49,8 @@ deliveries → orders, deliveries → riders
 
 Checked for and removed null values across all tables.
 
-📈 Key Business Questions & Insights
+
+#📈 Key Business Questions & Insights
 
 ✅ 1. Top 5 Most Frequently Ordered Dishes (Last 1 Year)
 Identified most popular items using order frequency, grouped by customers.
@@ -78,7 +82,9 @@ Found peak hours for platform engagement.
 ✅ 10. Most Profitable City
 Identified cities with highest revenue contribution.
 
-💡 Business Recommendations:
+
+#💡 Business Recommendations:
+
 Increase staffing during peak hours (12 PM & 8 PM) and weekends.
 
 Promote top-selling dishes and offer combos to increase average order value.
@@ -87,13 +93,8 @@ Improve logistics or restaurant operations in cities with high cancellation rate
 
 Reward high-performing riders and investigate low delivery success rates.
 
-🧠 Outcomes
 
-Delivered actionable insights on customer behavior, city-wise demand, and rider efficiency.
-
-Provided a foundation for dashboard development in Power BI or Excel for stakeholders.
-
-🌟 What I Learned
+#🌟 What I Learned
 
 Writing optimized SQL queries for business logic.
 
