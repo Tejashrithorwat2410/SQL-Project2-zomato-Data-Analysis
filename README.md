@@ -1,11 +1,11 @@
 # 📊 Project Report: Zomato Data Analysis using SQL Server
 
 🧾 Project Title
-Zomato Data Analysis using SQL Server
+Zomato Data Analysis using SQL Server and Power BI
 
 📌 Objective
 
-To perform end-to-end analysis on a simulated Zomato-like food delivery dataset to generate business insights, identify customer behavior, restaurant performance, delivery efficiency, and support decision-making through data-driven conclusions.
+To analyze customer orders, restaurant performance, delivery operations, and rider efficiency for a Zomato-like food delivery platform using SQL Server for data analysis and Power BI for visualization, with the goal of improving business decision-making and customer experience.
 
 🗂️ Dataset Overview
 
@@ -29,10 +29,26 @@ Tools Used: SSMS (SQL Server Management Studio)
 
 Languages: T-SQL
 
+Microsoft Power BI
+
+DAX (Data Analysis Expressions
+
 
 🔐 Data Preparation
 
 Created relational database: Zomato_Data_Analysis
+
+Tables:
+
+orders
+
+customers
+
+restaurants_data
+
+deliveries
+
+riders
 
 Defined primary and foreign key constraints to maintain referential integrity:
 
@@ -74,6 +90,15 @@ Found peak hours for platform engagement.
 ✅ 10. Most Profitable City
 Identified cities with highest revenue contribution.
 
+💡 Business Recommendations:
+Increase staffing during peak hours (12 PM & 8 PM) and weekends.
+
+Promote top-selling dishes and offer combos to increase average order value.
+
+Improve logistics or restaurant operations in cities with high cancellation rates.
+
+Reward high-performing riders and investigate low delivery success rates.
+
 🧠 Outcomes
 
 Delivered actionable insights on customer behavior, city-wise demand, and rider efficiency.
@@ -87,3 +112,13 @@ Writing optimized SQL queries for business logic.
 Performing data cleaning and integrity validation.
 
 Using real-world analytics techniques such as cohort analysis, time-series trends, and performance benchmarking.
+
+Building interactive dashboards using Power BI with drill-throughs, filters, and slicers for better user experience.
+
+Designing visuals that align with business KPIs like revenue, order volume, and delivery performance.
+
+Writing DAX measures for custom metrics like success rate, repeat customer rate, and average delivery time.
+
+Creating data relationships and modeling across multiple tables for accurate, relational analysis.
+
+Using conditional formatting and tooltips to enhance storytelling in reports.
